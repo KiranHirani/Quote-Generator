@@ -95,8 +95,4 @@ const localQuotes = [
     text: "Everything in life is luck.",
     author: "Donald Trump",
   },
-  {
-    text: "Doing nothing is better than being busy doing nothing.",
-    author: "Lao Tzu",
-  },
 ];
